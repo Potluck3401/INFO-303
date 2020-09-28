@@ -1,4 +1,4 @@
-#An adventure based user-input game in Central Illinois
+#An adventure based user-input game in Central Illinois by Nick Polak
 
 import random
 import sys
